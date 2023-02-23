@@ -1,13 +1,6 @@
 # Learn Darklight
 Learn Darklight is a browser extension that offers multiple themes for Waterloo Learn. [Visit extension website](https://www.zijianshao.com/dlight/ "Learn Darklight Official Website")
 
-## Install
-Chrome: [View in Chrome Web Store](https://chrome.google.com/webstore/detail/learn-darklight/lhodieepeghcemhpbloffmljoklaklho "Learn Darklight (Chrome Version)")
-
-Edge: [View in Edge Addons](https://microsoftedge.microsoft.com/addons/detail/gniehfhhoajdjieojgojjgbcochajole "Learn Darklight (Edge Version)")
-
-Firefox: [View in Firefox Addons](https://addons.mozilla.org/addon/learn-darklight/ "Learn Darklight (Firefox Version)")
-
 Currently editing code by Zijian Shao to work for Queen's University ONQ D2L system
 
 ## Features
