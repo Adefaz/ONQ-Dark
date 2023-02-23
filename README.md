@@ -8,6 +8,8 @@ Edge: [View in Edge Addons](https://microsoftedge.microsoft.com/addons/detail/gn
 
 Firefox: [View in Firefox Addons](https://addons.mozilla.org/addon/learn-darklight/ "Learn Darklight (Firefox Version)")
 
+Currently editing code by Zijian Shao to work for Queen's University ONQ D2L system
+
 ## Features
 ### Custom Course Cover Pics
 Customize the cover picture of each course as you like, so that the course entry on the homepage is no longer indistinguishable.
